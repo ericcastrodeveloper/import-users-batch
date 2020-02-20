@@ -1,0 +1,5 @@
+Eric;123-456-789-10;example@example.com;650;Rua XXXXXXXXX;São Paulo;SP
+                                                                         Bruna;123-456-789-11;example@example.com;650;Rua XXXXXXXXX;São Paulo;SP
+                                                                         Cristiane;123-456-789-12;example@example.com;650;Rua XXXXXXXXX;São Paulo;SP
+                                                                         Fernanda;123-456-789-13;example@example.com;650;Rua XXXXXXXXX;São Paulo;SP
+                                                                         Jessica;123-456-789-14;example@example.com;650;Rua XXXXXXXXX;São Paulo;SP
