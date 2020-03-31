@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:tcp://localhost:9090/~/mydb
+    url: jdbc:h2:tcp://localhost:9090/mem:mydb
     username: fiap
     password: fiap
 
