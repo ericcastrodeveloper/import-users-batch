@@ -1,7 +1,7 @@
 package br.com.fiap.importusersbatch;
 
-import br.com.fiap.importusersbatch.writer.ClienteItemWriter;
 import br.com.fiap.importusersbatch.model.Cliente;
+import br.com.fiap.importusersbatch.writer.ClienteItemWriter;
 import org.assertj.core.api.Assertions;
 import org.junit.Assert;
 import org.junit.Test;
@@ -68,7 +68,6 @@ public class ImportClienteJobTest {
         }
         Assert.fail("Cliente with id " + clienteCpf + " is expected.");
 
-//        Assert.fail("Product with id " + productId + " is expected.");
     }
 
 
